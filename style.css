@@ -1,0 +1,47 @@
+
+body {
+    background: var(--sec-background);
+}
+
+
+header {
+    color: var(--main-text-color);
+    text-align: center;
+    background: var(--main-dark-background);
+    padding: 15px;
+}
+
+header a {
+    color: var(--main-text-color);
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.box-1 {
+    box-shadow: 3px 3px 30px var(--main-dark-background);
+    text-align: center;
+    margin: 30px 30px;
+}
+
+.imageAndName img {
+    width: 50%;
+    padding: 10px;
+}
+
+.imageAndName a {
+    color: var(--main-text-color);
+}
+
+.description {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    color: var(--main-text-color);
+}

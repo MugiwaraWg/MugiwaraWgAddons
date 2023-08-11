@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root {
+    --main-dark-background: #0d0d0e;
+    --sec-background: #1b1b1b;
+    --main-text-color: #f1f4f7;
+}

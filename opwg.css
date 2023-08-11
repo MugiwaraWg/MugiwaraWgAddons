@@ -1,0 +1,69 @@
+header {
+    color: white;
+    text-align: center;
+    background: var(--main-dark-background);
+    padding: 15px;
+}
+
+body {
+    background: var(--sec-background);
+    color: var(--main-text-color);
+}
+.addon {
+    text-align: center;
+    margin: 40px;
+}
+
+.addon h1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.Name {
+    width: 100%;
+    text-align: center;
+}
+
+.images {
+    margin: 50px;
+}
+
+.image-1 {
+    width: 50%;
+    margin-top: 10px;
+}
+
+.listFeatures {
+    margin: 50px;
+}
+
+.listFeatures ul {
+    margin-top: 15px;
+}
+
+.listFeatures ul li {
+    margin-top: 5px;
+}
+
+.download {
+    text-align: center;
+    padding: 20px;
+}
+
+.download p {
+    padding: 20px;
+}
+
+.download > p > a {
+    color: var(--main-text-color);
+}
+
+.creditos {
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .image-1 {
+        width: 100%;
+    }
+}
