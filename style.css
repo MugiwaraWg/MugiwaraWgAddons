@@ -3,6 +3,9 @@ body {
     background: var(--sec-background);
 }
 
+h2 {
+    color: white;
+}
 
 header {
     color: var(--main-text-color);
