@@ -13,7 +13,7 @@
     </header>
     <main>
         <section class="addon">
-            <h1>Naruto Guerra Wg 1.t</h1>
+            <h1>Naruto Guerra Wg 1.5</h1>
         </section>
         <section class="imagens">
             <div class="box-1">
@@ -25,14 +25,9 @@
         <section class="listFeatures">
             <h2>ChangeLog:</h2>
             <ul>
-                <li>Ilha: Baratie</li>
-                <li>Ilha: Arlong Park</li>
-                <li>Novas Raças</li>
-                <li>Adicionado estilo de luta: Black Leg</li>
-                <li>Adicionado estilo de luta: Nitoryu Oden</li>
-                <li>Adicionado espada: Mogura</li>
-                <li>Adicionado devil fruit: Suke Suke no Mi (Invisibilidade)</li>
-                <li>Jogabilidade atualizada para: Survival</li>
+                <li>Level Up</li>
+                <li>Novos Jutsus</li>
+                <li>Novos Npcs</li>
             </ul>
         </section>
         <section class="download">
